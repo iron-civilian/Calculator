@@ -40,6 +40,7 @@
 	font-family: Arial;
 	text-align: right;
 	background-color: white;
+	overflow: hidden;
 }
 
 .btn{
